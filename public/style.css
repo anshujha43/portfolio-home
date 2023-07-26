@@ -1,0 +1,48 @@
+
+    .motivational{
+      background-color: black;
+    }
+
+    #main-body{
+      background-color:cornflowerblue;
+      font-family:'Lucida Sans', 'Lucida Sans Regular';
+    }
+
+    #motivational-img{
+      width:50%;
+      height:50%;
+      border:5px solid white;
+    }
+
+    #dream-chase-id{
+      text-transform: capitalize;
+      font-size: 3rem;
+    }
+
+    .poster{
+       width:50%;
+       margin-left: 25%;
+       margin-top:100px;
+       color: white;
+       font-family: "Libre Baskerville", serif;
+       text-align: center;
+    }
+
+    .screenshot{
+      height:300px;
+      width:300px;
+      border:2px solid white;
+      padding:5px;
+    }
+
+    .project1-div{
+      margin: 0px 0px 0px 10px;
+    }
+
+    .project2-div{
+      margin:-380px 0px 0px 340px;
+    }
+
+    .project3-div{
+      margin:-380px 0px 0px 680px;
+    }
